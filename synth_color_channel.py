@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # license: GPL v3.0
 # copyright (c) 2026 - siriusky (github)
-# contact: github/ todo
+# contact: https://github.com/siriusky/siril-synthetic-color-channel/issues
 #
 # version 0.1.0 first release
 #
