@@ -2,6 +2,9 @@
 
 Creates a synthetic red, green, blue or luminance channel for a color image from a formula you choose (e.g. `2*g - b`), and either replaces that channel in the RGB image or produces a luminance image.
 
+<img width="944" height="549" alt="screenshot-010" src="https://github.com/user-attachments/assets/03902a2b-9338-43a0-8461-cb323c2dd80c" />
+
+
 ## What it is good for
 
 - Planetary imaging with achromats, strong defocus and lower optical quality, which often show up mainly in the blue channel.
