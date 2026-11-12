@@ -8,7 +8,7 @@ Creates a synthetic red, green, blue or luminance channel for a color image from
 ## What it is good for
 
 - Planetary imaging with achromats, strong defocus and lower optical quality, which often show up mainly in the blue channel.
-- Filling in a missing color channel before an RGB composition.
+- Filling in a missing color channel in an RGB composition.
 - Converting an OSC image to luminance with better SNR than simply setting saturation to 0.
 
 ## How to use
